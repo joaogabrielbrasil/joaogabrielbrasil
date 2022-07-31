@@ -17,6 +17,10 @@
 
 ***
 
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,python,java,php,laravel,nodejs,typescript,spring,react,angular)
+
+***
+
 <div> 
   <a href="https://www.linkedin.com/in/jo%C3%A3o-gabriel-de-oliveira-da-silva-7897aa144/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   

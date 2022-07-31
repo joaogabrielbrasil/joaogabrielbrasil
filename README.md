@@ -8,7 +8,7 @@
 
 ***
   
-![My Skills](https://skillicons.dev/icons?i=js,html,css,git,python,java,php,mysql,sql,scrum)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,git,python,php,mysql,sql,scrum)
 
 ***
 

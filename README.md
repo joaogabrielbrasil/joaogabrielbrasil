@@ -22,3 +22,6 @@
   
 </div>
 
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=joaogabrielbrasil&bg_color=000000&color=edffff&line=00ffff&point=ffffff&area=true&hide_border=true&radius=11)
+
